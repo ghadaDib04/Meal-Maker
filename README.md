@@ -7,11 +7,12 @@ This is a backend-focused health application built using Spring Boot. It allows 
 - Role-based access control
 - Custom meal plan creation and assignment
 - Patient meal tracking and feedback
+- Doctors meal creation and sending to the patients
 
 ## 🔧 Technologies
 - Java
 - Spring Boot
-- [Database Used, e.g., MySQL/PostgreSQL]
+- MySQL
 - RESTful APIs
 
 ## 🧑‍💻 Author
